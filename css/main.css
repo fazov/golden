@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+
+	font-family: "Arial", sans-serif;
+}
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+}
+
+header {
+	background: url(../img/first-bg.jpg) no-repeat center top /cover;
+	height: 750px;
+}
+
+.logo {
+	margin-top: 44px;
+}
