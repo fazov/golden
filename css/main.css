@@ -118,6 +118,7 @@ h1 {
 
 .services {
 	margin-top: 75px;
+	padding-bottom: 115px;
 }
 
 .services__item {
@@ -152,4 +153,25 @@ h1 {
 
 .services__item:nth-child(2) {
 	margin-left: 65px;
+}
+
+#portfolio {
+	background-color: #f7f7f7;
+	padding-bottom: 134px;
+}
+
+.works {
+	margin-top: 75px;
+}
+
+.works img {
+	float: left;
+}
+
+.works img:nth-child(2) {
+	margin-left: 33px;
+}
+
+.works img:last-child {
+	float: right;
 }
