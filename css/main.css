@@ -175,3 +175,57 @@ h1 {
 .works img:last-child {
 	float: right;
 }
+
+.about {
+	margin-top: 75px;
+}
+
+.about_left {
+	margin-bottom: 90px;
+}
+
+.about_right {
+	margin-bottom: 90px;
+}
+
+.about_left .about_content {
+	float: left;
+	width: 338px;
+
+	text-align: right;
+}
+
+.about_content .about_date {
+	text-transform: uppercase;
+}
+
+.about_content h3 {
+	margin: 0;
+
+	font-size: 18px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #222222;
+}
+
+.about_content p {
+	font-size: 14px;
+	line-height: 1.55em;
+}
+
+.about_left .about_img {
+	float: left;
+	margin-left: 40px;
+}
+
+.about_right .about_content {
+	float: right;
+	width: 338px;
+
+	text-align: left;
+}
+
+.about_right .about_img {
+	float: right;
+	margin-right: 40px;
+}
