@@ -229,3 +229,12 @@ h1 {
 	float: right;
 	margin-right: 40px;
 }
+
+.copy {
+	margin: 112px 0;
+
+	font-size: 14px;
+	line-height: 22px;
+	color: #555555;
+	text-align: center;
+}
